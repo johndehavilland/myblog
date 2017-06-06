@@ -10,7 +10,6 @@ url: http://www.johndehavilland.com
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: rouge
 sass:
