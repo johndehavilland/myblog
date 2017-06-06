@@ -6,7 +6,7 @@ description: Musings of a Cloud Solution Architect.
 logo: site-logo.png
 search: true
 comments: true
-url: http://localhost:4000
+url: http://www.johndehavilland.com
 
 # Jekyll configuration
 
@@ -45,7 +45,6 @@ owner:
   disqus-shortname: johndehavilland
   github: johndehavilland
   google:
-    plus: #username
     analytics: UA-55903624-3
     verify:
     ad-client:

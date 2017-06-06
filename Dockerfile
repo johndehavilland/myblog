@@ -6,6 +6,9 @@ ADD . /usr/jekyll
 RUN gem install jekyll bundler  
 WORKDIR "/usr/jekyll"
 
+RUN rm _config.yml
+RUN mv _config.yml.prod _config.yml
+
 RUN bundle config --global silence_root_warning 1
 RUN bundle install
 RUN bundle exec jekyll build
