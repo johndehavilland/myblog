@@ -45,5 +45,5 @@ With this technique you can build a more sophisticated response in your applicat
 
 Here as an example of it in action using the inbuilt tester.
 
-![QNAMaker with JSON response]({{ site.images }}/faq-json-response.png)
+![QNAMaker with JSON response]({{ site.images }}/faq-response.gif)
 
