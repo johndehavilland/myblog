@@ -6,9 +6,8 @@ categories: blog
 excerpt: 
 tags:
 - Azure
-- EventGrid
+- AzEventGrid
 - AzureEventGrid
-- AI
 date: '2017-08-18'
 image:
   feature: 
