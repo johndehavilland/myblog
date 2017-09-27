@@ -15,7 +15,7 @@ share: true,
 comments: true
 ---
 
-Azure just released a set of updates to Azure Machine Learning. Check out all the details (here)[https://azure.microsoft.com/en-us/blog/diving-deep-into-what-s-new-with-azure-machine-learning/].
+Azure just released a set of updates to Azure Machine Learning. Check out all the details [here](https://azure.microsoft.com/en-us/blog/diving-deep-into-what-s-new-with-azure-machine-learning/).
 
 There were three new launches:
 
