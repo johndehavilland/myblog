@@ -39,7 +39,7 @@ The data preparation options within the tool are fantastic. You can ingest data 
 
 One really cool aspect is the data preparation features built on advanced research in program synthesis and data cleansing. Here it is in action, you can create complex examples and it intelligently applies those across the data set. This will rapdily reduce time data scientists spend wrangling data.
 
-![Data prep options]({{ site.images }}/azureml-derive.gif)
+![Data prep options]({{ site.images }}/azureml-prep.gif)
 
 There are also some nice visualizations built into the data prep aspects of the tool
 
