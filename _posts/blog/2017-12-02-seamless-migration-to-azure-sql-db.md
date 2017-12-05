@@ -1,5 +1,5 @@
 ---
-title: Seamless Migration to Azure SQL Database with Database Migration Assistant
+title: Seamless Migration to Azure SQL Database with the Database Migration Service
 layout: post
 modified: 
 categories: blog
@@ -14,7 +14,7 @@ image:
 share: true,
 comments: true
 ---
-Back in May, at the //Build conference, Microsoft [announced](https://azure.microsoft.com/en-us/blog/azure-database-migration-service-announcement-at-build/) a new service - the Azure Database Migration Service. Now the service is [available](https://azure.microsoft.com/en-us/services/database-migration/) in public preview. It is the quickest and easiest way to migrate on-premises databases into the cloud. The new service uses a simple, guided process to streamline the migration and allow for current operations to continue while the migration is happening.
+Back in May, at the Build conference, Microsoft [announced](https://azure.microsoft.com/en-us/blog/azure-database-migration-service-announcement-at-build/) a new service - the [Azure Database Migration Service](https://azure.microsoft.com/en-us/services/database-migration/). Now the service is available in public preview. It is the quickest and easiest way to migrate on-premises databases into the cloud. The new service uses a simple, guided process to streamline the migration and allow for current operations to continue while the migration is happening.
 
 It is as easy to use as the documentation claims. To get started, you will need the following:
 
