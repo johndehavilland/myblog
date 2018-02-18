@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Azure Resource Manager template apiVersion
 modified: null
