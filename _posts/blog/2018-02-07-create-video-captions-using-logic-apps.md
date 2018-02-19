@@ -11,8 +11,9 @@ tags:
 date: '2017-12-19'
 image:
   feature: 
-share: true,
+share: true
 comments: true
+published: false
 ---
 
 Azure makes it easy to build complex workflows quickly and seamlessly. One example could be to generate multilanguage subtitle (or caption files) for videos that you create. Using Event Grid to fire storage events, Logic Apps to orchestrate the flow and cognitive services to generate the transcribed audio it is easy to create a media workflow.
