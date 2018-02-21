@@ -17,7 +17,7 @@ comments: true
 published: true
 ---
 
-I have recently started to work on a set of introductary videos focusing on deep learning and neural networks. The goal of these videos is to explain some of the basic concepts behind various types of neural networks and then give you a hands-on example to show you how you can build your own neural network. I showcase a variety of frameworks such as Keras, CNTK and Tensorflow. I also use a variety of tools from Juypter Notebooks through to Azure Machine Learning Workbench. I will continue to add more videos over time. You can check out the full collection [here](https://www.youtube.com/channel/UCG8DZ4kefymEkySTHMUEPbg).
+I have recently started to work on a set of introductory videos focusing on deep learning and neural networks. The goal of these videos is to explain some of the basic concepts behind various types of neural networks and then give you a hands-on example to show you how you can build your own neural network. I showcase a variety of frameworks such as Keras, CNTK and Tensorflow. I also use a variety of tools from Jupyter Notebooks through to Azure Machine Learning Workbench. I will continue to add more videos over time. You can check out the full collection [here](https://www.youtube.com/channel/UCG8DZ4kefymEkySTHMUEPbg).
 
 Here are the first four videos that I recommend you check out to get started:
 
