@@ -39,6 +39,10 @@
     }
   }
 
+  a {
+    color: $text-color;
+  }
+
   a > span {
     float: right;
   }
