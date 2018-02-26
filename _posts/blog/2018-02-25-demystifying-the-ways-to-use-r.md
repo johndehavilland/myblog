@@ -1,12 +1,12 @@
 ---
-title: Demystifying R options available from Microsoft 
+title: Demystifying The Ways to Use R in the Microsoft Ecosystem
 layout: post
 modified: 
 categories: blog
 excerpt: 
 tags:
 - r server
-- microsoft machine learning server
+- microsoft ml server
 - microsoftr
 date: '2018-02-25'
 image:
@@ -16,7 +16,7 @@ comments: true
 published: true
 ---
 
-In 2015, Microsoft acquired [Revolution Analytics](https://en.wikipedia.org/wiki/Revolution_Analytics). Microsoft R was a rebranding of Revolution R. The R landscape at Microsoft can be a bit confusing. Here I want to try to lay it out simply. First, Microsoft R Server has been rebranded to [Microsoft Machine Learning Server](https://blogs.technet.microsoft.com/machinelearning/2017/09/25/introducing-microsoft-machine-learning-server-9-2-release/). At the time of writing, ML Server 9.2 was available. 
+In 2015, Microsoft acquired [Revolution Analytics](https://en.wikipedia.org/wiki/Revolution_Analytics). Microsoft R was a rebranding of Revolution R. Since the R landscape at Microsoft can be a bit confusing I want to try to lay it out simply. First, Microsoft R Server has been rebranded to [Microsoft Machine Learning Server](https://blogs.technet.microsoft.com/machinelearning/2017/09/25/introducing-microsoft-machine-learning-server-9-2-release/). At the time of writing, ML Server 9.2 was available. 
 
 So, what are the different ways to use R from Microsoft?
 
@@ -89,7 +89,7 @@ So, what are the different ways to use R from Microsoft?
 ## [R in Azure Batch](https://docs.microsoft.com/en-us/azure/batch/tutorial-r-doazureparallel)
 * doAzureParallel is a lightweight R package that allows you to use Azure Batch directly from your R session.
 * Built on top of the R foreach package - takes each iteration of the foreach loop and submits it as a Azure Batch task.
-* Levearge [low priority VMs](https://azure.microsoft.com/en-us/blog/run-massive-r-jobs-in-azure-directly-from-r-studio-at-a-fraction-of-the-price/) to significantly reduce the cost.
+* Leverage [low priority VMs](https://azure.microsoft.com/en-us/blog/run-massive-r-jobs-in-azure-directly-from-r-studio-at-a-fraction-of-the-price/) to significantly reduce the cost.
 * Azure Batch allows you to create a pool of VMs which you can use to run jobs in parallel achieving better scale out and more efficiency.
 
 
