@@ -13,7 +13,7 @@ image:
   feature: 
 share: true
 comments: true
-published: false
+published: true
 ---
 
 The R landscape at Microsoft can be a bit confusing. So I want to try to lay it out simply here. First, Microsoft R Server has been rebranded to [Microsoft Machine Learning Server](https://blogs.technet.microsoft.com/machinelearning/2017/09/25/introducing-microsoft-machine-learning-server-9-2-release/). At the time of writing, ML Server 9.2 was available.
