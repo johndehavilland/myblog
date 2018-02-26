@@ -16,7 +16,7 @@ comments: true
 published: true
 ---
 
-The R landscape at Microsoft can be a bit confusing. So I want to try to lay it out simply here. First, Microsoft R Server has been rebranded to [Microsoft Machine Learning Server](https://blogs.technet.microsoft.com/machinelearning/2017/09/25/introducing-microsoft-machine-learning-server-9-2-release/). At the time of writing, ML Server 9.2 was available.
+In 2015, Microsoft acquired [Revolution Analytics](https://en.wikipedia.org/wiki/Revolution_Analytics). Microsoft R was a rebranding of Revolution R. The R landscape at Microsoft can be a bit confusing. Here I want to try to lay it out simply. First, Microsoft R Server has been rebranded to [Microsoft Machine Learning Server](https://blogs.technet.microsoft.com/machinelearning/2017/09/25/introducing-microsoft-machine-learning-server-9-2-release/). At the time of writing, ML Server 9.2 was available. 
 
 So, what are the different ways to use R from Microsoft?
 
@@ -40,6 +40,11 @@ So, what are the different ways to use R from Microsoft?
 * R pacakge that adds state-of-the-art data transforms, machine learning algorithms, and pre-trained models to R and Python functionality
 * Installed as part Machine Learning Server, Microsoft R Client and SQL Server Machine Learning Services.
 * Works in tandem with RevoScaleR.
+
+## [mrsdeploy](https://docs.microsoft.com/en-us/machine-learning-server/r-reference/mrsdeploy/mrsdeploy-package)
+* R package for establishing a remote session and for publishing and managing a web service that is backed by R.
+* It comes installed and loaded with Microsoft R Client. On ML Server and SQL Server it is installed but not loaded by default.
+* It makes it easy to use a remote server for executing your jobs as well as making it very easy to publish your models as a web service to Machine Learning Server.
 
 ## [Microsoft R Client](https://docs.microsoft.com/en-us/machine-learning-server/r-client/what-is-microsoft-r-client)
 * This is a free data science tool built on top of Microsoft R Open.
@@ -80,5 +85,12 @@ So, what are the different ways to use R from Microsoft?
 * HDInsight includes an option to spin up a Machine Learning Server (previously called R Server) to integrate with your HDI cluster.
 * Execute R scripts with Spark/Hadoop compute context to distribute job across cluster.
 * Use the ScaleR functions from RevoScaleR package to ensure R functions run across cluster.
+
+## [R in Azure Batch](https://docs.microsoft.com/en-us/azure/batch/tutorial-r-doazureparallel)
+* doAzureParallel is a lightweight R package that allows you to use Azure Batch directly from your R session.
+* Built on top of the R foreach package - takes each iteration of the foreach loop and submits it as a Azure Batch task.
+* Levearge [low priority VMs](https://azure.microsoft.com/en-us/blog/run-massive-r-jobs-in-azure-directly-from-r-studio-at-a-fraction-of-the-price/) to significantly reduce the cost.
+* Azure Batch allows you to create a pool of VMs which you can use to run jobs in parallel achieving better scale out and more efficiency.
+
 
 
