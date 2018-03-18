@@ -70,7 +70,7 @@
 </div><!-- /.footer-wrapper -->
 
 {% include scripts.html %}
-<script src="https://ds.microsoft.com/api/v2/jdhblog/rank/myposts?details=2" async></script> 
+<script src="https://ds.microsoft.com/api/v2/jdhblogmain/rank/jdhblogfeed?details=2" async></script> 
 <script>
   
         function callback(json) {
@@ -85,7 +85,7 @@
                     onClick: element.id != json.rewardAction ? function () {
                             $.ajax({
                                 type: "POST",
-                                url: '//ds.microsoft.com/api/v2/jdhblog/reward/' + json.eventId,
+                                url: '//ds.microsoft.com/api/v2/jdhblogmain/reward/' + json.eventId,
                                 contentType: "application/json",
                                 data: 0
                             });
@@ -95,7 +95,7 @@
                         function () {
                             $.ajax({
                                 type: "POST",
-                                url: '//ds.microsoft.com/api/v2/jdhblog/reward/' + json.eventId,
+                                url: '//ds.microsoft.com/api/v2/jdhblogmain/reward/' + json.eventId,
                                 contentType: "application/json",
                                 data: 1
                             });
