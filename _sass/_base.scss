@@ -231,3 +231,23 @@ pre {
 b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, .highlight {
 	@include transition(all 0.2s ease);
 }
+
+.mytable table {  
+    color: #333; /* Lighten up font color */
+    font-family: Helvetica, Arial, sans-serif; /* Nicer font */
+    width: 640px; 
+    border-collapse: 
+    collapse; border-spacing: 0; 
+}
+
+.mytable td, .mytable th { border: 1px solid #CCC; height: 30px; } /* Make cells a bit taller */
+
+.mytable th {  
+    background: #F3F3F3; /* Light grey background */
+    font-weight: bold; /* Make sure they're bold */
+}
+
+.mytable td {  
+    background: #FAFAFA; /* Lighter grey background */
+    
+}
