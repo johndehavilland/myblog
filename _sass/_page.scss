@@ -152,7 +152,7 @@ span + .entry-title {
 /* author avatar (circular) */
 
 .bio-photo {
-	display: none;
+	display: none; 
 
 	@include media($large) {
 		display: block;
