@@ -5,12 +5,9 @@ modified:
 categories: blog
 excerpt: 
 tags:
-- PowerBI
-- parquet
-- Apache Drill
-- Azure Data Lake Store
-- ADLS
-date: '2019-06-10'
+- Internet Trends
+- Mary Meeker
+date: '2019-06-12'
 image:
   feature: 
 share: true
