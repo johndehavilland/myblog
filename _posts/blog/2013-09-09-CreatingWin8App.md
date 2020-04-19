@@ -108,7 +108,7 @@ The second hurdle I faced was that there was no privacy policy defined in the se
             <div class="win-content">
                 <div class="win-settings-section">
                     <p>This application does not collect or transmit any user's personal information, with the exception of technical information included in HTTP requests (such as your IP address). No personal information is used, stored, secured or disclosed by services this application works with.</p>
-                    <a href="http://www.johndehavilland.com/privacypolicy.htm">View privacy statement online</a>
+                    <a href="https://www.johndehavilland.com/privacypolicy.htm">View privacy statement online</a>
                 </div>
             </div>
 

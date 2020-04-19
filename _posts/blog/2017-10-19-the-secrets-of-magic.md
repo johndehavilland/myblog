@@ -15,7 +15,7 @@ share: true,
 comments: true
 ---
 
-Sometimes you come across something that just blows you away. I had this experience recently with the [Program Synthesis by Example](https://microsoft.github.io/prose/) functionality in the newly release [Azure Machine Learning Workbench](http://www.johndehavilland.com/blog/2017/09/26/Azure-Machine-Learning.html). 
+Sometimes you come across something that just blows you away. I had this experience recently with the [Program Synthesis by Example](https://microsoft.github.io/prose/) functionality in the newly release [Azure Machine Learning Workbench](https://www.johndehavilland.com/blog/2017/09/26/Azure-Machine-Learning.html). 
 
 It takes data-wrangling to a whole new level - opening the door to some very cool opportunities. At it's most basic, PROSE automatically finds a program that will best convert a given input to a given output. If you want to convert a whole document then you would give an input sample from that and the expected output. PROSE would then synthesize a ranked set of programs that match the given input/output examples and chooses the highest ranked one to apply. This will then be applied across the entire input.
 

@@ -11,4 +11,4 @@ Some projects I created:
 
 [Robot Haiku](http://robothaiku.me/) - this is an application that generates Haiku based on a seed word or phrase. It is created from a trained recurrent neural network.
 
-[Deep Learning Videos](http://www.johndehavilland.com/blog/2018/02/17/getting-started-with-deep-learning.html) - A set of videos on deep learning.
+[Deep Learning Videos](https://www.johndehavilland.com/blog/2018/02/17/getting-started-with-deep-learning.html) - A set of videos on deep learning.
