@@ -1,9 +1,9 @@
 ---
 layout: page
 title: About
-excerpt: "A technology site focusing on the cloud, software engineer, big data and machine learning."
+excerpt: "A technology site focusing on the cloud, software engineering, big data and machine learning."
 ---
-I am Cloud Solution Architect focusing on advanced analytics and machine learning. I work at Microsoft but the opinions and comments within this blog are my own.
+I do some technology stuff. Work at Microsoft but opinions and comments are entirely my own.
 
 Some projects I created:
 
