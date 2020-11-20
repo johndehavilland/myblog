@@ -33,7 +33,7 @@ The core components in Azure will be a virtual network and a GPU-based Virtual M
 
 We will use [Teradici](https://www.teradici.com/) to remotely access the vMix platform. Teradici provides a low latency remote desktop protocol (PCoIP) which is perfect for video scenarios like mixing that require minimal latency to ensure great user experience and the ability for editors to handle programming for live scenarios. 
 
-Finally, we want to be able to capture high-quality individual video streams from 2 or more participants from a Teams call. Imagine a live interview being conducted as a scenario where this applicable. In order to do this, we will be using NDI within Teams to broadcast the streams to our mixer in Azure. 
+Finally, we want to be able to capture high-quality individual video streams from 2 or more participants from a Teams call. Imagine a live interview being conducted as a scenario where this is applicable. In order to do this, we will be using NDI within Teams to broadcast the streams to our mixer in Azure. 
 
 NDI is a protocol, developed by NewTek that enable video-compatible products to communicate, deliver, and receive high-definition video over a computer network in a high-quality, low-latency manner that is frame-accurate and suitable for switching in a live production environment. 
 
@@ -64,7 +64,7 @@ The steps to create this in Azure is as follows:
 
 ![Mixing in vMix]({{ site.images }}/vpcr-ndi-mix.png)
 {:.post-image}
-*Mixing NDI in vMix*
+*Mixing NDI in vMix from Teams NDI*
 {:.image-caption}
 
-As you can see, this is a fairly easy scenario to get setup in Azure and you can start enabling your teams right away to take advantage of these capabilities. 
+In the image above, this show vMix in Azure. My colleague in his home office is pulled into my Teams session while I connected remotely from my home office to the same session and taking the NDI feeds into Azure to use in vMix This is a fairly easy scenario to get setup in Azure and you can start enabling your teams right away to take advantage of these capabilities. 
