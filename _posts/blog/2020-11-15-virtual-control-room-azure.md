@@ -24,7 +24,7 @@ In media broadcasting, with a continued focus on moving production to the cloud,
 
 I want to demonstrate how easy it is to setup a simple virtual production control room in Azure. We will keep it simple, using [vMix](https://www.vmix.com/) as our mixer and [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/group-chat-software) for capturing video feeds locally and sharing video via [NDI](https://ndi.tv/) to the master control in Azure. The setup is simple to demonstrate the capabilities but can easily be adjusted to accomodate more traditional broadcasting workflows.
 
-![virtual control room architecture]({{ site.images }}/vpcr_arch.jpg)
+![virtual control room architecture]({{ site.images }}/vpcr-arch.png)
 {:.post-image}
 *Virtual Production Control Room Architecture*
 {:.image-caption}
@@ -35,7 +35,7 @@ We will use [Teradici](https://www.teradici.com/) to remotely access the vMix pl
 
 Finally, we want to be able to capture high-quality individual video streams from 2 or more participants from a Teams call. Imagine a live interview being conducted as a scenario where this applicable. In order to do this, we will be using NDI within Teams to broadcast the streams to our mixer in Azure. 
 
-NDI is protocol, developed by NewTek that enable video-compatible products to communicate, deliver, and receive high-definition video over a computer network in a high-quality, low-latency manner that is frame-accurate and suitable for switching in a live production environment. 
+NDI is a protocol, developed by NewTek that enable video-compatible products to communicate, deliver, and receive high-definition video over a computer network in a high-quality, low-latency manner that is frame-accurate and suitable for switching in a live production environment. 
 
 The steps to create this in Azure is as follows: 
 1. Create a [NV series](https://docs.microsoft.com/en-us/azure/virtual-machines/nv-series) machine with Windows 2019 – ideally a Standard_NV12s_v3. 
@@ -47,13 +47,24 @@ The steps to create this in Azure is as follows:
 4. You will need to enable the following ports in Azure to allow NDI to work: 5960-65535, 5353 and the following ports for Teradici: 4172, 60443
 5. You need to enable NDI in Teams. Once it is enabled you can then start your interview call in Teams and turn on NDI Broadcast. This will start to broadcast the video streams using NDI.
 
-![NDI in teams]({{ site.images }}/vpcr_ndi_teams.jpg)
+![NDI in teams]({{ site.images }}/vpcr-ndi-teams.png)
 {:.post-image}
 *Enable NDI in Teams*
 {:.image-caption}
 
 6. You can now connect to your Azure VM using the Teradici PCoIP client.
 7. Once connected, open vMix and add input as NDI – you should see the Teams video streams available to add.
+
+![NDI in vMix]({{ site.images }}/vpcr-ndi-vmix.png)
+{:.post-image}
+*Capture NDI in vMix*
+{:.image-caption}
+
 8. At this point you can now mix these together in vMix and create a live output to send downstream.
+
+![Mixing in vMix]({{ site.images }}/vpcr-ndi-mix.png)
+{:.post-image}
+*Mixing NDI in vMix*
+{:.image-caption}
 
 As you can see, this is a fairly easy scenario to get setup in Azure and you can start enabling your teams right away to take advantage of these capabilities. 
