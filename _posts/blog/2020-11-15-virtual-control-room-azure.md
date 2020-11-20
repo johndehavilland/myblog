@@ -8,7 +8,7 @@ tags:
 - Broadcasting
 - Azure
 - Virtual Control Room
-date: '2020-11-15S'
+date: '2020-11-15'
 image:
   feature: 
 share: true
