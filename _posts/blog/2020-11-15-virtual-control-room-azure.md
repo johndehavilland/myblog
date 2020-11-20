@@ -67,4 +67,4 @@ The steps to create this in Azure is as follows:
 *Mixing NDI in vMix from Teams NDI*
 {:.image-caption}
 
-In the image above, this show vMix in Azure. My colleague in his home office is pulled into my Teams session while I connected remotely from my home office to the same session and taking the NDI feeds into Azure to use in vMix This is a fairly easy scenario to get setup in Azure and you can start enabling your teams right away to take advantage of these capabilities. 
+In the image above, this shows vMix in Azure. My colleague in his home office is pulled into my Teams session while I connect remotely from my home office to the same session and taking the NDI feeds into Azure to use in vMix. This is a fairly easy scenario to get setup in Azure and you can start enabling your teams right away to take advantage of these capabilities. 
