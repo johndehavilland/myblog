@@ -1,5 +1,5 @@
 ---
-title: NFTs Explained, Simply
+title: NFT Explained, Simply
 layout: post
 modified: 
 categories: blog
