@@ -1,5 +1,5 @@
 ---
-title: NFTs Explained, Simply
+title: NFT, The Metaverse, explained, kind of
 layout: post
 modified: 
 categories: blog
@@ -12,10 +12,18 @@ image:
   feature: 
 share: true
 comments: true
-published: true
+published: false
 ---
 
-So you may have heard about NFTs in some form or another. Most likely you have also been scratching your head about what they actually are. Having been in the same boat, I decided to try to breakdown what exactly NFTs are and why you might care based on research I have done.
+So you may have heard about NFTs in some form or another. You may also have heard of the metaverse. Most likely you have also been scratching your head about what they actually are. Having been in the same boat, I decided to try to breakdown what exactly NFTs are and why you might care based on research I have done.
+
+The metaverse - the simplest way to think about it is a digital world (or, really, universe) that is community driven and digtially interoperable (which is a fancy way of saying things work together seamlessly that today may not - e.g. your car you designed on the BMW can now be used in various games). 
+
+Isn't this just Second Life? Kind of, but more. Second Life is an example of a prelude to the future metaverse. Fortnite is the closest example so far of what a metaverse could be. However, the metaverse, while having gaming elements, will also need non-gaming elements to realize the vision. The interoperability is missing. The metaverse will have a functioning economy. Fortnite is the closest to the embodiment of this platform.
+
+The metaverse, at its simplest, is a set of virtual 3D virtual worlds where anyone (unlimited users) can experience it at any given moment with the history of what they have done before persisting and an identity that crosses paradigms.
+
+You may hear the metaverse being referred to as web 3.0. We have had web 1 - where people access and read information and we are in the mature stages of web 2.0 where we have social communties and sharing and we are perhaps entering web 3.0 where the metaverse emerges. A big difference is how it is powered - the metaverse can only exist with decentralizated platforms to support persistent, live experiences.
 
 First, NFT = Non-Fungible Token. Non-Fungible essentially means unique, one-of-a-kind. The token aspect is a representation of a thing (either physical or digital) that is unique in that you can't swap it for something else and get the same thing. Essentially, NFTs are certificates of ownership. Now, in theory, the valuable part is that, using blockchain technology, only one person can be an owner of one of these tokens.
 
