@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: NFT, The Metaverse, explained, kind of
+=======
+title: NFT Explained, Simply
+>>>>>>> f7620970ecc8a0fc8504ad3953577adfc3ae8b4d
 layout: post
 modified: 
 categories: blog
