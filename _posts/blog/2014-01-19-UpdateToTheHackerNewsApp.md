@@ -11,7 +11,7 @@ date: 2014-01-19T15:39:55-04:00
 ---
 
 I have finally finished some updates on my first foray into Windows 8 apps. Last summer I uploaded, to the Windows Store, version 1 of my [Hacker News App](http://apps.microsoft.com/windows/en-us/app/hacker-news-app/d26f7f82-0c9d-46fa-aecf-f02f817a0729) which, using the bigrss feed from Hacker News, displayed the top stories from the popular tech news aggregator. It was pretty basic - it showed comments for each story and allowed the viewer to view the original story. For release 2 I added a couple of new features that I think will make it more useful as well as made a couple of bug fixes and UX improvements.
-
+<!--more-->
 Highlights include:
 
 1. Offline Stories

@@ -16,7 +16,7 @@ comments: true
 ---
 
 Below I have highlighted some of the commonly used, open source, machine learning frameworks you will find in use today.
-
+<!--more-->
 ## Tensorflow
   * Deep learning framework created by the Google Brain Team 
   * Started out as a proprietary ML system based on deep neural networks at Google

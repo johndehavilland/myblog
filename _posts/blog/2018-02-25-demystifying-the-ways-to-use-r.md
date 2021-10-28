@@ -19,7 +19,7 @@ published: true
 In 2015, Microsoft acquired [Revolution Analytics](https://en.wikipedia.org/wiki/Revolution_Analytics). Microsoft R was a rebranding of Revolution R. Since the R landscape at Microsoft can be a bit confusing I want to try to lay it out simply. First, Microsoft R Server has been rebranded to [Microsoft Machine Learning Server](https://blogs.technet.microsoft.com/machinelearning/2017/09/25/introducing-microsoft-machine-learning-server-9-2-release/). At the time of writing, ML Server 9.2 was available. 
 
 So, what are the different ways to use R from Microsoft?
-
+<!--more-->
 ## [Microsoft R Open](https://mran.microsoft.com/open)
 * This is the enhanced, open source, distribution of R from Microsoft. 
 * It is based on, and extends, the R language. It contains the R language, compatible with all R packages, scripts and applications that work with the underlying version of R. 

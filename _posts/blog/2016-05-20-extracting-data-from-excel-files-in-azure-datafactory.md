@@ -13,7 +13,7 @@ comments: true
 ---
 
 Sometimes you have a requirement to get data out of Excel files as part of your data ingestion process. Perhaps the business users create reports in Excel and then send them to you on a regular basis. Unfortunately though, there is not always a great mechanism to extract data out of Excel files, especially if you want to use the data as part of a data processing pipeline with Azure Data Factory. In this post I outline an approach to leverage and extract data out of Excel files as part of an Azure Data Factory pipeline.
-
+<!--more-->
 Imagine the following scenario: on a daily basis reports are created by the business team in Excel and dropped into an Azure Storage account. Each report contain two sheets - Orders and Customers. The Orders sheet contains the details of the orders for the day and the customer id of the customer who purchased them. The Customers sheet contains the customer details for that day. For this scenario we want to extract just the orders sheet to a CSV file as we already have the customers stored in our data warehouse. Here is the input file:
 
 ![Input Excel File]({{ site.images }}/adf-excel/input_excel.png)

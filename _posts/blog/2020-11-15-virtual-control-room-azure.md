@@ -3,7 +3,6 @@ title: Live Video Broadcast and Mixing in Azure with Teams
 layout: post
 modified: 
 categories: blog
-excerpt: 
 tags:
 - Broadcasting
 - Azure
@@ -12,11 +11,12 @@ date: '2020-11-15'
 image:
   feature: 
 share: true
-comments: true
+comments: false
 published: true
 ---
 
 In media broadcasting, with a continued focus on moving production to the cloud, the idea of virtual production control rooms are taking root. A production control room is the place were incoming feeds are combined together and the outgoing program is created. Virtualizing this brings several key benefits:
+<!--more-->
 
 * Ability to **scale up and down** as needed for live events - no need for expensive investment in hardware up front
 * Enabling a **remote workforce** - important for geographically dispersed production

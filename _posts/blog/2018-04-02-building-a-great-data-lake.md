@@ -24,7 +24,7 @@ published: true
 A Data Lake is a term that gets thrown around a fair amount, often in conjunction with big data. But what does it really mean?
 
 At its core, its a central repository for storing unlimited amounts of data from many different sources that you can bring analytics to bear on top of to gain insights.
-
+<!--more-->
 ### Do I even need a Data Lake?
 
 ![Big Data]({{ site.images }}/big-data-library.jpg)

@@ -3,7 +3,7 @@ title: Using Apache Drill to Access Parquet Files in PowerBI
 layout: post
 modified: 
 categories: blog
-excerpt: 
+excerpt:
 tags:
 - PowerBI
 - parquet
@@ -19,7 +19,7 @@ published: true
 ---
 
 When you are working with data, especially larger data sets, you will come across parquet files. [Parquet](https://parquet.apache.org/) is a binary columnar storage format which is efficient for several large data use cases both in terms of compression and speed.
-
+<!--more-->
 If you have built out your Data Lake on Azure (using either Azure Storage or Azure Data Lake Store) you may want to be able to connect and work with your parquet files in PowerBI. Since parquet requires a compute layer there are a few options to achieve this. A fairly simple and easy way to get started is use Apache Drill. Apache Drill is an open-source software framework that supports data-intensive distributed applications for interactive analysis of large-scale datasets. If you want to know why you would use Apache Drill check out more details [here](https://drill.apache.org/why/).
 
 An easy way to get started with Apache Drill is via a container. I created a [github repo](https://github.com/johndehavilland/apachedrillazuredatalake) where you can leverage the full Dockerfile and setup to get started connecting Drill to Azure Data Lake Store. 

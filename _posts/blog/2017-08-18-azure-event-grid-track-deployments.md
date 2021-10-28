@@ -16,7 +16,7 @@ comments: true
 ---
 
 Azure just released a cool new service call [Azure Event Grid](https://azure.microsoft.com/en-us/blog/introducing-azure-event-grid-an-event-service-for-modern-applications/). Azure Event Grid manages all routing of events from any source, to any destination, for any application. It essentially puts events as first class citizens in the ecosystem. Built with a serverless model, it allows you to wire up eventing to perform "shoulder taps" when events happen to trigger downstream processing.
-
+<!--more-->
 As an example, I setup a basic event grid to collect events on an Azure subscription. I applied a filter to just watch for deployment events on a specific resource group and, if one occured, I would push details of that to my slack channel.
 
 Setup was really simple and took about 10 minutes. Using [logic apps](https://azure.microsoft.com/en-us/services/logic-apps/), I created a trigger based on event grids

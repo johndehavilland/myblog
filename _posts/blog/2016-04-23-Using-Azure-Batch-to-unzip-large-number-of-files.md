@@ -13,7 +13,7 @@ comments: true
 ---
 
 If you ever have a need to unzip a large number of files that are sitting in Azure Storage then one option is to use Azure Batch. In this post I will show how easy it is to create an application that leverages Azure Batch to unzip files sitting in Azure Storage and place the extracted files back into Azure Storage. A full working solution is available on my github repository [here](https://github.com/johndehavilland/UnzipperOnAzureBatch).
-
+<!--more-->
 [Azure Batch](https://azure.microsoft.com/en-us/documentation/services/batch/) enables you to run large-scale parallel and high performance computing (HPC) applications efficiently in the cloud. It is a PaaS offering, which means the service will manage the cluster of compute for you and all you have to worry about is creating your logic and submitting to the batch service for execution across the nodes. 
 
 In the scenario I will be describing how to create a program that will perform the following steps:

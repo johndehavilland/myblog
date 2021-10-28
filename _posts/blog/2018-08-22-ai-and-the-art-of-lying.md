@@ -20,7 +20,7 @@ Interesting article - ["Will AI end the Art of Lying?"](https://www.ozy.com/fast
 ### Some points of note:
 
 **Swarm Intelligence**: the concept that more minds are greater than one is being explored with interesting results from an AI perspective
-
+<!--more-->
 Using this concept UNU built a swarm intelligence platform. Using this platform a TechRepublic reporter made a $1 bet in the Kentucky Derby and ended up pocketing $542.
 
 **Affective Computing**: This is a growing field around detecting emotional states with software alone. An interesting experiment was done around this to identify legitmate users from internet con artists. A few additional security questions were asked on a form but, interestingly, the answers were irrelevant. The goal of the extra questions was to keep users on the screen longer so the software could analyze the mannerisms of the user's mouse movements.

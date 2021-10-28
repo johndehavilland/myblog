@@ -26,6 +26,7 @@ Highly recommended reading - [How Artifical Intelligence is Reshaping Repression
 AI technology, primarily in the form of facial recognition is being adopted by security forces, driven, in part, with investment from China.
 
 Zimbabwe is implementing facial recognition - this is a country that recently carried out large post-election crackdowns.
+<!--more-->
 
 Other technology, such as biometrics, hacking and disinformation is coupled with AI to some worrying effects.
 

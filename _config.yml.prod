@@ -5,9 +5,10 @@ locale: en_US
 description: Technology thoughts and musings.
 logo: site-logo.png
 search: true
-comments: true
+comments: false
 url: https://www.johndehavilland.com
 images: /images
+excerpt_separator: <!--more-->
 
 # Jekyll configuration
 
@@ -16,11 +17,12 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-twitter-plugin
 kramdown:
   input: GFM
   auto_ids: true

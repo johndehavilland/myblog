@@ -16,7 +16,7 @@ comments: true
 ---
 
 You can use [Azure SQL Data Warehouse](https://azure.microsoft.com/en-us/services/sql-data-warehouse/) as part of your Azure Data Factory pipeline which is great, but you probably don't want to have the data warehouse running at the maximum [Data Warehouse Units](https://docs.microsoft.com/en-us/azure/sql-data-warehouse/sql-data-warehouse-manage-compute-overview) (DWU) all the time, especially if the pipeline is not running on a frequent basis. I want to share with you some steps to enable scaling up and scaling down of SQL Data Warehouse right within your Data Factory pipeline.
-
+<!--more-->
 For scaling up you will need:
 
 1. A linked service pointing to your SQL Data Warehouse master database - it has to be master so we can poll for success.

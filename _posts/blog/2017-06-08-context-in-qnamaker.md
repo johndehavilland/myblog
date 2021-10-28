@@ -16,7 +16,7 @@ comments: true
 ---
 
 If you have not checked out [Microsoft's qnamaker](http://qnmaker.ai) then you should. "From FAQ to Bot in minutes" - quite literally. You can sign up, give it an FAQ to ingest, wait a minute or so for it to train and then you will be given a REST endpoint to which you can POST natural language questions. You can quickly incorporate this into a bot using the Azure Bot Framework or even incorporate it into other web applications. 
-
+<!--more-->
 Sometimes you want a bit more complexity in your responses though. Suppose a scenario where you may have a question that is the same but refers to two different products.
 
 Let's take an example of 2 cars: red and green. Let's assume that you want to find out the MPG for each car. In the knowedge base you have two questions:

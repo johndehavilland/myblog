@@ -11,7 +11,7 @@ date: 2014-07-26T15:39:55-04:00
 ---
 
 Back in August 2013, at the Blackhat conference, security researchers Angelo Prado, Neal Harris and Yoel Gluck announced BREACH.
-
+<!--more-->
 BREACH (Browser Reconnaissance and Exfiltration via Adaptive Compression of Hypertext) is an exploit against HTTPS when using HTTP compression. It is based on the earlier discovered compression exploit, CRIME.
 
 The attack is relatively straightforward:

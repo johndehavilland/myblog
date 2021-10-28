@@ -3,7 +3,7 @@ title: The Metaverse, explained, kind of
 layout: post
 modified: 
 categories: blog
-excerpt: 
+excerpt:
 tags:
 - Metaverse
 - Simple
@@ -12,19 +12,21 @@ date: '2021-10-27'
 image:
   feature: 
 share: true
-comments: true
+comments: false
 published: true
 ---
 
-So you may have heard about NFTs in some form or another. You may also have heard of the metaverse (if you haven't, you will). You may have been scratching your head about what it all means. Having been in the same boat, I decided to spend some time to try to breakdown - mainly as a forcing function to help me understand it, but I figured others may benefit as well. 
+*So you may have heard about NFTs in some form or another. You may also have heard of the metaverse (if you haven't, you will). You may have been scratching your head about what it all means. Having been in the same boat, I decided to spend some time to try to breakdown - mainly as a forcing function to help me understand it, but I figured others may benefit as well.*
 
-This is a multipart series, where I start with the Metaverse but explore NFTs and the technology that will potentially power the future.
+*This is a multipart series, where I start with the Metaverse but explore NFTs and the technology that will potentially power the future.*
+<!--more-->
 
-![Photo by <a href="https://unsplash.com/@orwhat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Richard Horvath</a> on <a href="https://unsplash.com/s/photos/metaverse?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  ]({{ site.images }}/metaverse-1.jpg)
+![Photo by Austin Chan]({{ site.images }}/metaverse-1.jpg)
 {:.post-image}
+*Photo by <a href="https://unsplash.com/@austinchan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Austin Chan</a> on <a href="https://unsplash.com/s/photos/other-worldly?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
+{:.image-caption}
 
-# Part 1 - The Metaverse
+## Part 1 - The Metaverse
 
 Imagine being able to exist in a virtual world, where you could enter virtual stores, try on virtual clothes and have them shipped to you in the real world. Or imagine sharing a virtual concert experience with friends in 3 different countries at the same time, in the same virtual place where one friend is actually in the physical concert location. This combination and interplay between the real world and a virtual world is an illustration of a metaverse experience - in fact some of this already exists today.
 
@@ -57,7 +59,11 @@ In the next part, I will talk about NFTs and how they are tied to the metaverse.
 If you want to dig deeper in what the metaverse means here are some great resources I highly recommend checking out:
 
 [Matthew Ball's Metaverse Primer](https://www.matthewball.vc/the-metaverse-primer)
+
 [All Roads Lead to the Metaverse](https://www.dentsu.com/us/en/blog/all-roads-lead-to-the-metaverse)
+
 [The VR Metaverse of Ready Player One Is Just Beyond Our Grasp](https://www.wired.com/story/ready-player-one-vr-metaverse/)
+
 [A multiverse, not a metaverse](https://techcrunch.com/2020/02/25/virtual-worlds-intro/)
+
 [The Economy of the metaverse](https://medium.com/gamemakers/the-economy-of-the-metaverse-interview-with-epic-ceo-tim-sweeney-1822eed01ddf) 

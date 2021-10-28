@@ -12,7 +12,7 @@ share: true,
 comments: true
 ---
 Today I am going to walk though creating a simple analytical pipeline using Azure Data Factory. The [Azure Data Factory service](http://azure.microsoft.com/en-us/services/data-factory/) is a fully managed service for composing data storage, data processing, and data movement services into streamlined, scalable, and reliable data production pipelines. 
-
+<!--more-->
 With Azure Data Factory you can take data from a disparate set of sources both on premise and in the cloud. It allows you to process the data in a variety of ways such as using Pig or Hive as well as allowing you to create custom C# activities. Activities are composed to create a pipeline that takes input sources and output targets. These can be connected together to form a process through which your data flows allowing you to perform complex analysis and processing over the data you have.
 
 In this post I will take a simple use case - an incoming set of tweets from twitter will be processed and the word frequency will be counted and outputted to an Azure SQL table. It will demonstrate the power behind data factory and the speed with which you can get going with it.

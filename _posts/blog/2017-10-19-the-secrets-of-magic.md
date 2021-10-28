@@ -16,7 +16,7 @@ comments: true
 ---
 
 Sometimes you come across something that just blows you away. I had this experience recently with the [Program Synthesis by Example](https://microsoft.github.io/prose/) functionality in the newly release [Azure Machine Learning Workbench](https://www.johndehavilland.com/blog/2017/09/26/Azure-Machine-Learning.html). 
-
+<!--more-->
 It takes data-wrangling to a whole new level - opening the door to some very cool opportunities. At it's most basic, PROSE automatically finds a program that will best convert a given input to a given output. If you want to convert a whole document then you would give an input sample from that and the expected output. PROSE would then synthesize a ranked set of programs that match the given input/output examples and chooses the highest ranked one to apply. This will then be applied across the entire input.
 
 You will have seen this in action before, in Excel, via the flash fill mechanism. However, this mechanism was fraught and limited in scope. It relied to heavily on hand created rules and heuristics to find the program to convert input to output. Now though, using recent advances in deep learning, PROSE uses a data-driven approach to select the right algorithm to apply without any need for hand created rules. It is available as part of Azure Machine Learning Workbench and is also available as an  SDK that you can programatically leverage. Its pretty easy to use and, to demonstrate, that I put together a simple sample to transform JSON from one form to another using PROSE. The application is very simple and you can try it out below.

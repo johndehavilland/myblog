@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-excerpt: "An collection of interesting projects."
+excerpt: "A collection of interesting projects."
 search_omit: true
 ---
 

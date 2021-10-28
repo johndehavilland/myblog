@@ -16,7 +16,7 @@ published: true
 ---
 
 Blockchain technology is all the rage these days. You hear about it more and more yet what does it really do and how can you use it?
-
+<!--more-->
 ![Blockchain all the things]({{ site.images }}/blockchain1.jpg)
 {:.post-image}
 

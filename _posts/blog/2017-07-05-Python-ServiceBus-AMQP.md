@@ -17,7 +17,7 @@ comments: true
 ---
 
 Azure Service Bus does support the Advanced Message Queuing Protocol (AMQP) 1.0 protocol. It is a comprehensive messaging protocol and is typically used where reliability and interoperability are key. It provides a wide range of messaging features such as reliable queuing, publish-subscribe, transactions etc.
-
+<!--more-->
 Since Azure Service Bus supports this, I was looking for a way to leverage it within my Python code. It was a little trickier than I first expected as there are differences between Python v2.7 and Python v3.0
 
 For this to work with Python you have to use the [Apache Qpid Proton library](https://qpid.apache.org/proton/index.html). 

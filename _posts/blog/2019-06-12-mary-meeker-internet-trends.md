@@ -3,7 +3,6 @@ title: Some Thoughts on Mary Meeker's Internet Trends 2019
 layout: post
 modified: 
 categories: blog
-excerpt: 
 tags:
 - Internet Trends
 - Mary Meeker
@@ -16,6 +15,7 @@ published: true
 ---
 
 Mary Meeker is a venture capitalist whose work focuses primarily on the internet and new technologies. Each year she produces a report about internet trends - both looking back and looking forward. It is always highly anticipated you can check out this year's [here](https://www.bondcap.com/pdf/190611_Internet_Trends_2019.pdf). Below are some of my key takeaways after reading:
+<!--more-->
 
 * Rising cost in user acquistion (33%) - its becoming more expensive to acquire users and it is unsustainable to keep maintaining customer acquisition costs that are higher than lifetime value.
 * Growth is slowing

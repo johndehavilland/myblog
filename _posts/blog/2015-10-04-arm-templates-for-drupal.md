@@ -13,7 +13,7 @@ comments: true
 ---
 
 This post is about automating deployment into Azure for Drupal 7. This will focus on leveraging [Azure Resource Manager](https://azure.microsoft.com/en-us/documentation/articles/resource-group-overview/) (ARM) and ARM templates to define the infrastructure as well as wire up the continous deployment processes. 
-
+<!--more-->
 The environment will consist of the following:
 
 1. Drupal 7 deployed to an Azure Web App

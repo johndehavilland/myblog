@@ -21,7 +21,7 @@ I have created a simple, proof of concept bot that leverages the following Azure
 *   Microsoft Cognitive Services – LUIS
 *   Azure Search
 *   Azure Functions
-
+<!--more-->
 This bot allows a user to ask questions about Azure and responds with targeted documents that should help the user get the answers they need. 
 
 Every month, a set of Azure functions pulls the latest set of Azure documentation down from the [Azure Docs](https://github.com/Microsoft/azure-docs) public github repo. It extracts out all the documents and processes through those, landing them in an Azure Search index.

@@ -16,7 +16,7 @@ comments: true
 ---
 
 Recently a [custom visual](https://powerbi.microsoft.com/en-us/blog/new-power-bi-custom-visuals-for-browsing-and-analyzing-collections-of-text/) was released for Power BI that enabled browsing and analyzing collections of text. These visuals can provide a powerful set of tools for analysis.
-
+<!--more-->
 There are three visuals: 
 * Facet Key
 * Cluster Map

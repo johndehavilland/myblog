@@ -18,7 +18,7 @@ comments: true
 Azure just released a set of updates to Azure Machine Learning. Check out all the details [here](https://azure.microsoft.com/en-us/blog/diving-deep-into-what-s-new-with-azure-machine-learning/).
 
 There were three new launches:
-
+<!--more-->
 the AML Workbench, a cross-platform client for AI-powered data wrangling and experiment management,
 the AML Experimentation service to help data scientists increase their rate of experimentation with big data and GPUs, and
 the AML Model Management service to host, version, manage and monitor machine learning models.

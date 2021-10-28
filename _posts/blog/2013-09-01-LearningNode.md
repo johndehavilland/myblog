@@ -11,7 +11,7 @@ date: 2013-09-01T15:39:55-04:00
 ---
 
 I have been starting to make more and more forays into JavaScript and decided to bite the bullet and look into one of the more popular javascript libraries that allow a full application to be built, end to end with JavaScript. First was deciding what I was going focus on. Initially I started to look at backbone.js but discovered that really, backbone.js was more for handling your view layer better. You still needed some form of server side components. Looking for something more, I turned to [node.js](http://www.nodejs.org). Their website proclaims:
-
+<!--more-->
 >Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.
 
 Perfect.

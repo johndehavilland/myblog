@@ -11,7 +11,7 @@ date: 2013-09-21T15:39:55-04:00
 ---
 
 Sometimes, especially if you are working with a large amount of web applications or different versions of the same application, you find IIS gets cluttered with all the different web applications. It is quite tedious to go through and delete different ones when you want to clean up. I created this simple powershell script to allow you to remove web applications from a specified website within IIS from the command line.
-
+<!--more-->
 {% highlight powershell %}
 import-module WebAdministration
 $existingWebApplications = Get-WebApplication
