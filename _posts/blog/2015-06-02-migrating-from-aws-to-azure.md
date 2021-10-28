@@ -16,7 +16,7 @@ With Azure Site Recovery you can migrate VMs from Physical Servers to Azure. Thi
 
 * Migrating instances from AWS to Azure
 * Having a Azure as a failover site for AWS instances.
-
+<!--more-->
 This guide will walk through how simple it is to use ASR to migrate an AWS VM to Azure.
 
 1\. First, you will need to sign up (or have access to) an Azure Subscription.

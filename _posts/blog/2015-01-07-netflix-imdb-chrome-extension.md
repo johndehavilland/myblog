@@ -13,7 +13,7 @@ comments: true
 ---
 
 I created a simple Chrome extension today to make things a little easier when browsing Netflix. I always find myself having to go to IMDB.com to go and check out a movie's rating when I am looking for something to watch on Netflix. With this extension I bring that rating right into Netflix, meaning one less click for me.
-
+<!--more-->
 Creating a Chrome extension is easy enough. The [guides](https://developer.chrome.com/extensions/index) are pretty good.
 
 For my extension I planned to use the [OMDB api](http://www.omdbapi.com) that provides the IMDB rating of a movie as part of its response.

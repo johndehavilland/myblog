@@ -12,7 +12,7 @@ share: true
 ---
 
 Often I work with remotely distributed teams where some (or all) of the team members are remote and attend meetings virtually. The other day, during a [planning games](http://en.wikipedia.org/wiki/Planning_poker) session, a few of the team members were remote and so, in order to facilitate the planning poker sessions, we looked for a web site that would provide the option for the team to all vote within a virtual room.
-
+<!--more-->
 We tried several but they all either had too many features, were overcomplicated or just did not work. We just wanted something simple that did the job without any fanfare or complication. So I created [planningpoker.biz](http://planningpoker.biz).
 
 The requirements are simple:

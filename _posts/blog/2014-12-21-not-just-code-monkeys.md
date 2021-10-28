@@ -13,7 +13,7 @@ comments: true
 ---
 
 Martin Fowler's [presention](http://www.infoq.com/presentations/healthy-social-environment) on building healthy, social environments where software development can thrive is interesting.
-
+<!--more-->
 Here are some takeaways:
 
 * There are many frustrations about the state of agile today.
