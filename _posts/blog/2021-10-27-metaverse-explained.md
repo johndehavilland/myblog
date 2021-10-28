@@ -9,8 +9,7 @@ tags:
 - Simple
 - Web 3.0
 date: '2021-10-27'
-image:
-  feature: 
+image: metaverse-1.jpg
 share: true
 comments: false
 published: true
