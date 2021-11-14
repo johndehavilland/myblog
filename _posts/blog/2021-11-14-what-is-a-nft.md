@@ -8,8 +8,7 @@ tags:
 - NFT
 - Metaverse
 date: '2021-11-14'
-image:
-  feature: 
+image: 'nft-header-small.jpg'
 share: true
 comments: false
 published: true
