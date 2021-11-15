@@ -8,7 +8,7 @@ tags:
 - NFT
 - Metaverse
 date: '2021-11-14'
-image: 'nft-header-small.jpg'
+image: nft-main.jpg
 share: true
 comments: false
 published: true
@@ -16,9 +16,9 @@ published: true
 
 *This is part 2 of my series on the metaverse, NFTs and more. Check out part 1, [The Metaverse, Explained, Kind Of](https://www.johndehavilland.com/blog/2021/10/27/metaverse-explained.html)*
 
-![Photo by Javier Miranda]({{ site.images }}/nft-header-small.jpg)
+![Do Something Great]({{ site.images }}/nft-main.jpg)
 {:.post-image}
-*Photo by <a href="https://unsplash.com/@nuvaproductions?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Javier Miranda</a> on <a href="https://unsplash.com/s/photos/digital-art?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
+*Photo by <a href="https://unsplash.com/@clarktibbs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Clark Tibbs</a> on <a href="https://unsplash.com/s/photos/future?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*
 {:.image-caption}
 
 ## Part 2: NFTs, Intrinsic Value and the New World Order
@@ -33,7 +33,7 @@ So what is this all about?
 *Mike Winkleman's collection, Everyday: First 5000 days, that sold for $69m*
 {:.image-caption}
 
-NFTs originated back in the early 2010s with the rise of a concept of "colored coins" as part of the bitcoin ecosystem. This evolved and, in 2014, the first NFT was [created and sold](https://www.sothebys.com/en/buy/auction/2021/natively-digital-a-curated-nft-sale-2/quantum) by Kevin McCoy. It was a piece of hypnotic digital art called Quantum.
+NFTs originated back in the early 2010s with the rise of a concept of [colored coins](https://www.coindesk.com/markets/2013/06/14/colored-coins-paint-sophisticated-future-for-bitcoin/) as part of the bitcoin ecosystem. This evolved and, in 2014, the first NFT was [created and sold](https://www.sothebys.com/en/buy/auction/2021/natively-digital-a-curated-nft-sale-2/quantum) by Kevin McCoy. It was a piece of hypnotic digital art called Quantum.
 
 ![Quantum by Kevin McCoy]({{ site.images }}/quantum.gif)
 {:.post-image}
