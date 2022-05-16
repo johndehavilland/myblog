@@ -12,10 +12,13 @@ comments: false
 published: true
 ---
 
->I'm so powerful
+>"I'm so powerful
+>
 >I don't need batteries to play
+>
 >I'm so confident
->Yeah, I'm unstoppable today` - Sia, Unstoppable
+>
+>Yeah, I'm unstoppable today" - Sia, Unstoppable
 
 ## Thought of the week
 Don't make things unnecessarily complex. In many conversations I have with customers, colleagues and others, it is this strange desire to make things more complex than they need to be that causes a lot of headaches. [You are not Netflix](https://link.springer.com/chapter/10.1007/978-3-030-31646-4_13). Bleeding edge for the sake of bleeding isn't the right strategy. Start with the end in mind and march towards it in the simplest path, you might save yourself a lot of trouble along the way.
