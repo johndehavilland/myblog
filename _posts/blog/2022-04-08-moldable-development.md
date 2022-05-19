@@ -23,6 +23,3 @@ The whole concept is about reimagining software engineering as decision making w
 It follows a simple methodology, namely start with a hypothesis, look at existing ways to analyze and then perform the analysis, interpret the results and then repeat or make a decision.. Moldable development comes in when the existing analysis is not the best approach. You can mold a tool to enable better analysis. 
 
 But do you have to do this custom each time? Well software requires context and, often, context is specific. So cutting the barrier to entry for creating examples is key. Enter Glamourous Toolkit - aimed at making this easy to do.
-
-
-https://futureofcoding.org/episodes/036.html
