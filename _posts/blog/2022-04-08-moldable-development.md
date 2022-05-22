@@ -24,4 +24,4 @@ It follows a simple methodology, namely start with a hypothesis, look at existin
 
 But do you have to do this custom each time? Well software requires context and, often, context is specific. So cutting the barrier to entry for creating examples is key. Enter Glamourous Toolkit - aimed at making this easy to do.
 
-Check out (https://moldabledevelopment.com/)[https://moldabledevelopment.com/] to learn more.
+Check out [https://moldabledevelopment.com/](https://moldabledevelopment.com/) to learn more.
