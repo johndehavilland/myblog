@@ -25,8 +25,8 @@ Don't make things unnecessarily complex. In many conversations I have with custo
 
 This week's finds seem to focus on communication to some degree. It is an area that always fascinates me and one I strive to one day be good at.
 
-* Fascinating presentation on the [importance of visualization to programming(https://maggieappleton.com/programming-pictures). [Text](https://portal.gitnation.org/contents/visualising-react-metaphors-models-and-spatial-mediums) for the great talk on the same topic by Maggie Appleton.
+* Fascinating presentation on the [importance of visualization to programming](https://maggieappleton.com/programming-pictures). [Text](https://portal.gitnation.org/contents/visualising-react-metaphors-models-and-spatial-mediums) for the great talk on the same topic by Maggie Appleton.
 
-Great post on how to (write as a software engineer)[https://www.heinrichhartmann.com/posts/writing/] - we all need to write more.
+* Great post on how to [write as a software engineer](https://www.heinrichhartmann.com/posts/writing/) - we all need to write more.
 
-(Thoughts on public speaking)[https://speaking.io] by Zach Holman. This guy does a great job when he presents and he wrote some of that down here.
+* [Thoughts on public speaking](https://speaking.io) by Zach Holman. This guy does a great job when he presents and he wrote some of that down here.
