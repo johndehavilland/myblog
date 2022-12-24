@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: JohnDH Blog
-  description: This is my blog
+  name: JohnDHBlog
+  description: "This is my blog"
   tags:
     - html
     - website
