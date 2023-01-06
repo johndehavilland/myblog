@@ -9,7 +9,7 @@ tags:
 - ChatGPT
 - Developers
 date: '2023-01-05'
-image: ideas.jpg
+image: lowcode.jpg
 share: true
 comments: false
 published: true
@@ -17,8 +17,6 @@ published: true
 We hear a lot about low code but what is it, really? Look the idea you can build software without writing code or less code has been around for a while. If you look at the evolution of computer programming languages from Fortran to Cobol to C, C++ and C#, Java, each step making it easier to build complex applications with a layer of abstraction that allowed developers to focus on the important things. The beauty of low code is that it enables developers to go faster and empowers more people to build things. 
 
 <!--more-->
-
-[Forrester defines](https://www.gartner.com/en/articles/what-is-platform-engineering) it as 
 
 Low code is on the rise as there is a shortage of skilled programmers but, and perhaps more important, a dire need for companies to innovate faster. The steam engine took a full 80 years from invention to widespread adoption, electricity took 40 years for the same; information technology took 20 years and Artificial Intelligence — already underway — could take just 10 years. Company age is rapidly decreasing - if you don't innovate, and innovate fast, you will not succeed.
 

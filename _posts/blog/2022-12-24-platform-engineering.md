@@ -6,7 +6,7 @@ categories: blog
 excerpt: 
 tags:
 date: '2022-12-24'
-image: ideas.jpg
+image: platform-eng.jpg
 share: true
 comments: false
 published: true
