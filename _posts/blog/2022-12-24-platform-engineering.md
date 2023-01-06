@@ -1,5 +1,5 @@
 ---
-title: Platform Engineer - the new paradigm
+title: Platform Engineering - the new paradigm
 layout: post
 modified: 
 categories: blog
