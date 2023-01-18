@@ -15,6 +15,8 @@ published: true
 ---
 Inbox Zero - the concept of keeping your inbox empty has been something I have always been intrigued with but failed to do time and again. Not this year. This year I am going to give it a solid try. 
 
+<!--more-->
+
 The idea is simple - when an email lands immediately do one of these things:
 * Delete
 * Delegate
