@@ -5,10 +5,10 @@ modified:
 categories: blog
 excerpt: 
 tags: 
-- Productivity
+-Productivity
 -ChatGPT
 -Developers
-date: '2023-01-17'
+date: '2023-01-18'
 image: email.jpg
 share: true
 comments: false
