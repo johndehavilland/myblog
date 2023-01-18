@@ -1,13 +1,13 @@
 ---
-title: 8 Tips To Supercharge Your Development With ChatGPT Plus A Bonus Tip
+title: 8 Tips + A Bonus To Supercharge Your Development With ChatGPT
 layout: post
 modified: 
 categories: blog
 excerpt: 
 tags: 
--Productivity
--ChatGPT
--Developers
+- Productivity
+- ChatGPT
+- Developers
 date: '2023-01-18'
 image: email.jpg
 share: true
@@ -19,7 +19,8 @@ The amazing leaps and bounds in the past few months with generative AI has chang
 
 <!--more-->
 
-1. **Generate boiler plate code** - ever sat down to start your next project and then had to go do a bunch of searching to figure out the right starting point. I have. Every. Single. Time. Probably because I am not coding everyday anymore but still, its a pain. Well ChatGPT makes this so much more efficient. Not only giving you the starting point but also a recommended structure too.
+1. **Generate boiler plate code**
+Ever sat down to start your next project and then had to go do a bunch of searching to figure out the right starting point. I have. Every. Single. Time. Probably because I am not coding everyday anymore but still, its a pain. Well ChatGPT makes this so much more efficient. Not only giving you the starting point but also a recommended structure too.
 
 ![ChatGPT generates boilerplate code]({{ site.images }}/chatgpt-boilerplate.gif)
 {:.post-image}
