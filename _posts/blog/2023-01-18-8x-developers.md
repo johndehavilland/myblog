@@ -9,13 +9,13 @@ tags:
 - ChatGPT
 - Developers
 date: '2023-01-18'
-image: email.jpg
+image: chatgpt-pic.jpg
 share: true
 comments: false
 published: true
 ---
 
-The amazing leaps and bounds in the past few months with generative AI has changed the landscape for how AI will drive faster efficieny. ChatGPT is going to revolutionize development. Don't believe me? Well here are 8 ways to interact with ChatGPT to super charge your development right now!
+The amazing leaps and bounds in the past few months with generative AI have changed the landscape for how AI will drive faster efficieny. ChatGPT is going to revolutionize development. Don't believe me? Well here are 8 ways to interact with ChatGPT to super charge your development right now! Get started right here - [https://chat.openai.com](https://chat.openai.com)
 
 <!--more-->
 
